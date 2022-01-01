@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\bin\Debug\Oyuncu_uygulaması.exe.config
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\bin\Debug\Oyuncu_uygulaması.exe
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\bin\Debug\Oyuncu_uygulaması.pdb
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\obj\Debug\Oyuncu_uygulaması.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\obj\Debug\Oyuncu_uygulaması.Form1.resources
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\obj\Debug\Oyuncu_uygulaması.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\obj\Debug\Oyuncu_uygulaması.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\obj\Debug\Oyuncu_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\obj\Debug\Oyuncu_uygulaması.exe
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\Oyuncu_uygulaması\Oyuncu_uygulaması\obj\Debug\Oyuncu_uygulaması.pdb
